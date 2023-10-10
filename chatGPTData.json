@@ -1,0 +1,205 @@
+{
+  "1": {
+    "question": "Which city is the capital of India?",
+    "options": [
+      { "letter": "a", "text": "New Delhi" },
+      { "letter": "b", "text": "Mumbai" },
+      { "letter": "c", "text": "Kolkata" },
+      { "letter": "d", "text": "Chennai" }
+    ],
+    "correctAnswer": "a) New Delhi"
+  },
+  "2": {
+    "question": "Who is known as the Father of the Nation in India?",
+    "options": [
+      { "letter": "a", "text": "Mahatma Gandhi (correct answer)" },
+      { "letter": "b", "text": "Jawaharlal Nehru" },
+      { "letter": "c", "text": "Indira Gandhi" },
+      { "letter": "d", "text": "Rajendra Prasad" }
+    ],
+    "correctAnswer": "a) Mahatma Gandhi (correct answer)"
+  },
+  "3": {
+    "question": "Which political party is currently in power in India?",
+    "options": [
+      {
+        "letter": "a",
+        "text": "Bharatiya Janata Party (BJP) (correct answer)"
+      },
+      { "letter": "b", "text": "Indian National Congress (INC)" },
+      { "letter": "c", "text": "Aam Aadmi Party (AAP)" },
+      { "letter": "d", "text": "Communist Party of India (Marxist)" }
+    ],
+    "correctAnswer": "a) Bharatiya Janata Party (BJP) (correct answer)"
+  },
+  "4": {
+    "question": "Which famous monument in India is a mausoleum built with white marble?",
+    "options": [
+      { "letter": "a", "text": "Taj Mahal (correct answer)" },
+      { "letter": "b", "text": "Red Fort" },
+      { "letter": "c", "text": "Hawa Mahal" },
+      { "letter": "d", "text": "Qutub Minar" }
+    ],
+    "correctAnswer": "a) Taj Mahal (correct answer)"
+  },
+  "5": {
+    "question": "Which Indian city is known as the Silicon Valley of India?",
+    "options": [
+      { "letter": "a", "text": "Bengaluru (correct answer)" },
+      { "letter": "b", "text": "Hyderabad" },
+      { "letter": "c", "text": "Pune" },
+      { "letter": "d", "text": "Chennai" }
+    ],
+    "correctAnswer": "a) Bengaluru (correct answer)"
+  },
+  "6": {
+    "question": "Who is the current Prime Minister of India?",
+    "options": [
+      { "letter": "a", "text": "Narendra Modi (correct answer)" },
+      { "letter": "b", "text": "Rahul Gandhi" },
+      { "letter": "c", "text": "Arvind Kejriwal" },
+      { "letter": "d", "text": "Manmohan Singh" }
+    ],
+    "correctAnswer": "a) Narendra Modi (correct answer)"
+  },
+  "7": {
+    "question": "Which Indian state is famous for its backwaters?",
+    "options": [
+      { "letter": "a", "text": "Kerala (correct answer)" },
+      { "letter": "b", "text": "Rajasthan" },
+      { "letter": "c", "text": "Goa" },
+      { "letter": "d", "text": "Uttar Pradesh" }
+    ],
+    "correctAnswer": "a) Kerala (correct answer)"
+  },
+  "8": {
+    "question": "Which Indian cricketer has scored the most international runs?",
+    "options": [
+      { "letter": "a", "text": "Sachin Tendulkar (correct answer)" },
+      { "letter": "b", "text": "Virat Kohli" },
+      { "letter": "c", "text": "Rahul Dravid" },
+      { "letter": "d", "text": "Sunil Gavaskar" }
+    ],
+    "correctAnswer": "a) Sachin Tendulkar (correct answer)"
+  },
+  "9": {
+    "question": "Who was the first Indian to win an individual Olympic gold medal?",
+    "options": [
+      { "letter": "a", "text": "Abhinav Bindra (correct answer)" },
+      { "letter": "b", "text": "Saina Nehwal" },
+      { "letter": "c", "text": "Mary Kom" },
+      { "letter": "d", "text": "P. V. Sindhu" }
+    ],
+    "correctAnswer": "a) Abhinav Bindra (correct answer)"
+  },
+  "10": {
+    "question": "Which Indian state is known as the Land of the Gods?",
+    "options": [
+      { "letter": "a", "text": "Uttarakhand (correct answer)" },
+      { "letter": "b", "text": "Himachal Pradesh" },
+      { "letter": "c", "text": "Jammu and Kashmir" },
+      { "letter": "d", "text": "Arunachal Pradesh" }
+    ],
+    "correctAnswer": "a) Uttarakhand (correct answer)"
+  },
+  "11": {
+    "question": "Which Indian city is famous for its tea gardens?",
+    "options": [
+      { "letter": "a", "text": "Darjeeling (correct answer)" },
+      { "letter": "b", "text": "Munnar" },
+      { "letter": "c", "text": "Ooty" },
+      { "letter": "d", "text": "Shillong" }
+    ],
+    "correctAnswer": "a) Darjeeling (correct answer)"
+  },
+  "12": {
+    "question": "Who is the author of the book \"The God of Small Things\"?",
+    "options": [
+      { "letter": "a", "text": "Arundhati Roy (correct answer)" },
+      { "letter": "b", "text": "R.K. Narayan" },
+      { "letter": "c", "text": "Salman Rushdie" },
+      { "letter": "d", "text": "Vikram Seth" }
+    ],
+    "correctAnswer": "a) Arundhati Roy (correct answer)"
+  },
+  "13": {
+    "question": "In which year did India gain its independence from British rule?",
+    "options": [
+      { "letter": "a", "text": "1947 (correct answer)" },
+      { "letter": "b", "text": "1950" },
+      { "letter": "c", "text": "1930" },
+      { "letter": "d", "text": "1924" }
+    ],
+    "correctAnswer": "a) 1947 (correct answer)"
+  },
+  "14": {
+    "question": "Which Indian state is famous for its dance form called Kathakali?",
+    "options": [
+      { "letter": "a", "text": "Kerala (correct answer)" },
+      { "letter": "b", "text": "Rajasthan" },
+      { "letter": "c", "text": "Odisha" },
+      { "letter": "d", "text": "Assam" }
+    ],
+    "correctAnswer": "a) Kerala (correct answer)"
+  },
+  "15": {
+    "question": "Who is the current President of India?",
+    "options": [
+      { "letter": "a", "text": "Ram Nath Kovind (correct answer)" },
+      { "letter": "b", "text": "Pranab Mukherjee" },
+      { "letter": "c", "text": "Narendra Modi" },
+      { "letter": "d", "text": "S. Jaishankar" }
+    ],
+    "correctAnswer": "a) Ram Nath Kovind (correct answer)"
+  },
+  "16": {
+    "question": "Which Indian film won the Best Picture award at the 2020 Oscars?",
+    "options": [
+      { "letter": "a", "text": "Parasite" },
+      { "letter": "b", "text": "Slumdog Millionaire (correct answer)" },
+      { "letter": "c", "text": "Joker" },
+      { "letter": "d", "text": "The Shape of Water" }
+    ],
+    "correctAnswer": "b) Slumdog Millionaire (correct answer)"
+  },
+  "17": {
+    "question": "Which Indian state is home to the famous Sundarbans National Park?",
+    "options": [
+      { "letter": "a", "text": "West Bengal (correct answer)" },
+      { "letter": "b", "text": "Tamil Nadu" },
+      { "letter": "c", "text": "Maharashtra" },
+      { "letter": "d", "text": "Gujarat" }
+    ],
+    "correctAnswer": "a) West Bengal (correct answer)"
+  },
+  "18": {
+    "question": "Who composed the music for the Indian national anthem?",
+    "options": [
+      { "letter": "a", "text": "Rabindranath Tagore (correct answer)" },
+      { "letter": "b", "text": "A.R. Rahman" },
+      { "letter": "c", "text": "Lata Mangeshkar" },
+      { "letter": "d", "text": "Vishal-Shekhar" }
+    ],
+    "correctAnswer": "a) Rabindranath Tagore (correct answer)"
+  },
+  "19": {
+    "question": "Which Indian scientist is known as the Missile Man of India?",
+    "options": [
+      { "letter": "a", "text": "A.P.J. Abdul Kalam (correct answer)" },
+      { "letter": "b", "text": "C.V. Raman" },
+      { "letter": "c", "text": "Homi Bhabha" },
+      { "letter": "d", "text": "Srinivasa Ramanujan" }
+    ],
+    "correctAnswer": "a) A.P.J. Abdul Kalam (correct answer)"
+  },
+  "20": {
+    "question": "Which Indian city is known as the Pink City?",
+    "options": [
+      { "letter": "a", "text": "Jaipur (correct answer)" },
+      { "letter": "b", "text": "Agra" },
+      { "letter": "c", "text": "Varanasi" },
+      { "letter": "d", "text": "Jodhpur" }
+    ],
+    "correctAnswer": "a) Jaipur (correct answer)"
+  }
+}
