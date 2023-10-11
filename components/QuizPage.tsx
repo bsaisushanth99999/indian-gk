@@ -86,31 +86,32 @@ function QuizPage({ questions }: Props) {
 
   const quizDataJSON = JSON.stringify(quizData);
 
+  console.log("Quiz data" + quizQuestionForward);
   return (
-    <div>
+    <div className="ml-16">
       <QAForumPage quizItem={quizData[quizQuestionForward]} />
       <div className={`flex flex-row justify-around mt-40`}>
         <ArrowLeftCircleIcon
           onClick={() =>
-            quizQuestionForward <= 20 || quizQuestionForward >= 0
+            quizQuestionForward < 19 || quizQuestionForward >= 0
               ? setQuizQuestionForward(quizQuestionForward - 1)
               : null
           }
           className={`h-20 w-20 ${
             quizQuestionForward <= 0
-              ? "pointer-events-none cursor-not-allowed gray-500"
+              ? "pointer-events-none cursor-not-allowed "
               : null
           }`}
         />
         <ArrowRightCircleIcon
           onClick={() =>
-            quizQuestionForward >= 0 && quizQuestionForward < 20
+            quizQuestionForward >= 0 || quizQuestionForward < 19
               ? setQuizQuestionForward(quizQuestionForward + 1)
               : null
           }
           className={`h-20 w-20 ${
-            quizQuestionForward > 20
-              ? "pointer-events-none cursor-not-allowed gray-500"
+            quizQuestionForward >= 19
+              ? "pointer-events-none cursor-not-allowed "
               : null
           }`}
         />
